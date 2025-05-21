@@ -10,7 +10,7 @@ This is a Python-based price predictor model.
 
 4.Make predictions on new data consistently
 
-There are 14 attributes in each case of the dataset. They are:
+##There are 14 attributes in each case of the dataset. They are:
 
 CRIM - per capita crime rate by town
 
