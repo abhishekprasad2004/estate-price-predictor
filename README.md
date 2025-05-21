@@ -11,6 +11,7 @@ This is a Python-based price predictor model.
 4.Make predictions on new data consistently
 
 There are 14 attributes in each case of the dataset. They are:
+
 CRIM - per capita crime rate by town
 ZN - proportion of residential land zoned for lots over 25,000 sq.ft.
 INDUS - proportion of non-retail business acres per town.
